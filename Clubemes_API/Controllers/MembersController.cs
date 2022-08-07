@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Clubemes_API.Controllers
 {
     [ApiController]
-    [Route("api/MS/[Controller]")]
+    [Route("api/[Controller]")]
     public class MembersController : Controller
     {
         MemberService memberService;

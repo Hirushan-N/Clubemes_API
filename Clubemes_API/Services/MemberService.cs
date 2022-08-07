@@ -20,6 +20,7 @@ namespace Clubemes_API.Services
                 member.Name = "Nadeesh Hirushan";
                 member.Age = "24";
                 member.Addres = "Galle";
+                member.TP = "0771234567";
                 member.IsActive = true;
                 member.IsDeleted = false;
                 member.CreatedBy = "Creator";
